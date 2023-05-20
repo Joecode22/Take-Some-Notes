@@ -18,7 +18,7 @@
 
 ## Screenshot
 
-
+![app-screenshot](https://github.com/Joecode22/Take-Some-Notes/assets/93625431/adefcd00-709d-463d-979b-4f99546c2e7a)
 
 ## Application
 
