@@ -9,20 +9,20 @@
 ## Table of Contents
 
 1. [Description](#description)
-2. [Screenshot](#Screenshot)
-3. [Application](#Application)
+2. [Application](#Screenshot)
+3. [Screenshot](#Application)
 4. [Installation](#installation)
 5. [License](#license)
 6. [Contributing](#contributing)
 7. [Questions](#questions)
 
-## Screenshot
-
-![app-screenshot](https://github.com/Joecode22/Take-Some-Notes/assets/93625431/adefcd00-709d-463d-979b-4f99546c2e7a)
-
 ## Application
 
 The application has been deployed via heroku and can be viewed at the following link: https://dashboard.heroku.com/apps/take-some-notes/deploy/github
+
+## Screenshot
+
+![app-screenshot](https://github.com/Joecode22/Take-Some-Notes/assets/93625431/adefcd00-709d-463d-979b-4f99546c2e7a)
 
 ## Installation
 
